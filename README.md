@@ -1,6 +1,4 @@
 # Mask_RCNN
-Accomplished sophisticated human detection computer vision project applying advanced ‘Instance segmentation’ deep learning techniques called Mask R-CNN
-
 Problem Statement
 
 Autonomous vehicles need to identify human features accurately to ensure safe self-driving in real-time. When autonomous vehicles are able to identify human features or even yet, accurately classify the type of feature, it will be able to make better decisions quickly. But as the types of scenarios of transportation are diversified, we are increasingly in need of more sophisticated human detection techniques applying advanced ‘Instance segmentation’ deep learning techniques called Mask R-CNN.
