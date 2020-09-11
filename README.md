@@ -1,4 +1,5 @@
 # Mask_RCNN
+Accomplished sophisticated human detection computer vision project applying advanced ‘Instance segmentation’ deep learning techniques called Mask R-CNN
 
 Problem Statement
 
